@@ -45,7 +45,8 @@ namespace Kun_Scopping
         }
 
         /// <summary>
-        /// details to be implemented. Now only return the first
+        /// details to be implemented. Now only return the first.
+        /// Knuth shuffling algorithm produces a uniformly random permutation of the input array in linear time.
         /// </summary>
         /// <param name="staffs"></param>
         /// <returns></returns>
